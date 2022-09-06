@@ -1,12 +1,1 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+At CIT we accept students based on their desire to achieve, and not by technical aptitude testing. CIT seeks students who are willing to pay the price of achievement by confronting adversity, mastering their fears, and achieving success through hard work, discipline and perseverance. We will reach out to anyone willing to learn how to become tech innovators and help them bring out their potential.
